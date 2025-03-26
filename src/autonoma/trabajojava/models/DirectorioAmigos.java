@@ -1,7 +1,7 @@
 package autonoma.trabajojava.models;
 
-import autonoma.proyectojava.exceptions.AmigoNoEncontradoException;
-import autonoma.proyectojava.exceptions.AmigoYaRegistradoException;
+import autonoma.trabajojava.exceptions.AmigoNoEncontradoException;
+import autonoma.trabajojava.exceptions.AmigoYaRegistradoException;
 
 import java.util.ArrayList;
 import java.util.List;
