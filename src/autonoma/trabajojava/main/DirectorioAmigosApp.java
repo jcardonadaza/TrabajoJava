@@ -35,10 +35,10 @@ public class DirectorioAmigosApp {
 =======
  
  import autonoma.trabajojava.exceptions.AmigoYaRegistradoException;
- import autonoma.tranajojava.exceptions.CorreoInvalidoException;
+ import autonoma.trabajojava.exceptions.CorreoInvalidoException;
  import autonoma.trabajojava.exceptions.TelefonoInvalidoException;
- import autonoma.trajajojava.models.Amigo;
- import autonoma.trbajojava.models.DirectorioAmigos;
+ import autonoma.trabajojava.models.Amigo;
+ import autonoma.trabajojava.models.DirectorioAmigos;
  
  public class DirectorioAmigosApp {
      public static void main(String[] args) {

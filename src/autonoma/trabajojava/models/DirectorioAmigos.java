@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4808791b45cb41e4b0dc7398fddea521f0d0f7e4
 package autonoma.trabajojava.models;
 
 import autonoma.trabajojava.exceptions.AmigoNoEncontradoException;
@@ -49,6 +53,7 @@ public class DirectorioAmigos {
         System.out.println("Desarrollado por: Tu Nombre");
     }
 }
+<<<<<<< HEAD
 
 
 
@@ -56,3 +61,5 @@ public class DirectorioAmigos {
 
 
 
+=======
+>>>>>>> 4808791b45cb41e4b0dc7398fddea521f0d0f7e4
