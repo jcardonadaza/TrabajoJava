@@ -1,9 +1,7 @@
 package autonoma.trabajojava.models;
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 4808791b45cb41e4b0dc7398fddea521f0d0f7e4
+
 import autonoma.trabajojava.exceptions.CorreoInvalidoException;
 import autonoma.trabajojava.exceptions.TelefonoInvalidoException;
 
@@ -32,10 +30,4 @@ public class Amigo extends Persona {
     public boolean validarCorreo() {
         return getCorreo().indexOf('@') > 0;
     }
-<<<<<<< HEAD
 }
-
-
-=======
-}
->>>>>>> 4808791b45cb41e4b0dc7398fddea521f0d0f7e4
