@@ -23,7 +23,7 @@ public class Amigo extends Persona {
 
     // Validación de teléfono
     public boolean validarTelefono() {
-        return getTelefono().startsWith("606030");
+        return getTelefono().startsWith("6060") || getTelefono().startsWith("030");
     }
 
     // Validación de correo
